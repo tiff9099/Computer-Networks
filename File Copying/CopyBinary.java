@@ -1,4 +1,8 @@
 /** * A simple Java program that is passed two parameters: * a source URL and a destination file the URL will be copied to. 
+* 
+* The program copies a file (this must work with both text and binary files). 
+* Then, it is passed two parameters on the command line: (1) the file to be copied from (the source file), 
+* and (2) the file to be copied to (the destination file).
 *  
 * Tiffany Taghvaiee 
 * Computer Networks Fall 2020 */
